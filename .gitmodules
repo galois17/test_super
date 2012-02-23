@@ -1,3 +1,6 @@
 [submodule "test_minion"]
 	path = test_minion
 	url = git@github.com:galois17/test_minion.git
+[submodule "to_move_to_submodule"]
+	path = to_move_to_submodule
+	url = git@github.com:galois17/test_minion2.git
